@@ -19,3 +19,7 @@ kubectl apply -f app-depl
 kubectl rollout restart deployment app-depl
 
 
+http://localhost:31763/
+
+
+
